@@ -1,1 +1,1 @@
-# Quant-Finance-Projects
+Binomial tree European option pricing model
